@@ -7,7 +7,7 @@ local varsglobal = {
         FovAdd = 120,
         OldFov = workspace.CurrentCamera.FieldOfView,
         ZoomAmt = 0,
-        FovZoom = false,
+        FovZoom = true,
     },
 }
 
