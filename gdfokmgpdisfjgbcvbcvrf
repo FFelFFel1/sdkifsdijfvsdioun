@@ -94,7 +94,7 @@ GetKeyButton.Parent = frame
 --------------------------------------------------------------------------
 SubmitButton.MouseButton1Click:Connect(function()
     local KeySystem = KeySystem.Text
-    if KeySystem == "FFelFFel" then   
+    if KeySystem == "FFelFFel1" then   
 screenGui:Destroy()
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/21Nightmare12/Nightmare.cc1/8578a0bac357721bc3b7a309c68e560dfe4c814a/new" ,true))();
